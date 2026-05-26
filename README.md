@@ -2,4 +2,4 @@
 Converts between binary and decimal numbers.
 
 ## How to run
-python main.py
+copy main.py and run
