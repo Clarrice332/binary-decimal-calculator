@@ -1,2 +1,5 @@
-# binary-decimal-calculator
-program that converts numbers from base2 to base10 and from base10 to base2
+# Binary Decimal Calculator
+Converts between binary and decimal numbers.
+
+## How to run
+python main.py
